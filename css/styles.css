@@ -1,0 +1,24 @@
+.ankit{
+    background-color: #000000;
+}
+.card-title{
+    margin-top: 2%;
+    width: 70%;
+    margin-left: 15%;
+    color: rgb(252, 255, 205);
+    text-align: center;
+    font-size: 200%;
+    background-image: linear-gradient(0deg, #ff0000 , #ff0000);
+}
+.card-body{
+    width: 100%;
+    background-image: linear-gradient(0deg, #000000 , #000000);
+}
+.card-body1{
+    text-align: center;
+    width: 100%;
+    background-image: linear-gradient(0deg, #000000 , #000000);
+}
+.btn{
+    width: 40%;
+}
